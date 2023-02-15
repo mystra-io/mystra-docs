@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'CasperArmy',
   tagline: '',
-  url: 'https://docs2.casperarmy.org',
+  url: 'https://docs.mystra.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
