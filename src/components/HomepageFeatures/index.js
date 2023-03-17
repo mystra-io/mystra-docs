@@ -5,10 +5,10 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Documentation',
-    Svg: require('@site/static/img/casperarmy_logo_white.svg').default,
+    Svg: require('@site/static/img/mystra_logo_white.svg').default,
     description: (
       <>        
-        <a href="https://docs.casperarmy.org/docs/intro">Detailed information about how CasperArmy and its products work.</a>
+        <a href="https://docs.mystra.io/docs/intro">Detailed information about how Mystra and its products work.</a>
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/twitter_logo.svg').default,
     description: (
       <>
-        <a href="https://twitter.com/casperarmyorg">Keep up to date with the latest news.</a>
+        <a href="https://twitter.com/mystra_io">Keep up to date with the latest news.</a>
       </>
     ),
   },
