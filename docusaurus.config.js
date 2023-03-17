@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CasperArmy',
+  title: 'Mystra',
   tagline: '',
   url: 'https://docs.mystra.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/casperarmy_favicon_logo_white.ico',
-  organizationName: 'casperarmy', // Usually your GitHub org/user name.
-  projectName: 'casperarmy-docs', // Usually your repo name.
+  organizationName: 'Mystra', // Usually your GitHub org/user name.
+  projectName: 'mystra-docs', // Usually your repo name.
 
   presets: [
     [
@@ -25,7 +25,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          editUrl: 'https://github.com/casper-army/casperarmy-docs/tree/main/',
+          editUrl: 'https://github.com/mystra-io/mystra-docs',
         },
         blog: {
           showReadingTime: true,
@@ -44,10 +44,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'CasperArmy',
+        title: 'Mystra',
         logo: {
-          alt: 'CasperArmy Logo',
-          src: 'img/casperarmy_logo_white.svg',
+          alt: 'Mystra Logo',
+          src: 'img/mystra_logo_white.svg',
         },
         items: [
           {
@@ -58,7 +58,7 @@ const config = {
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/casper-army',
+            href: 'https://github.com/mystra-io/',
             label: 'GitHub',
             position: 'right',
           },
@@ -85,11 +85,11 @@ const config = {
               },
               {
                 label: 'Telegram',
-                href: 'https://t.me/casperarmyofficial',
+                href: 'https://t.me/mystraio',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/casperarmyorg',
+                href: 'https://twitter.com/mystra_io',
               },
             ],
           },
@@ -98,16 +98,16 @@ const config = {
             items: [
               {
                 label: 'Homepage',
-                href: 'https://casperarmy.org/'
+                href: 'https://mystra.io/'
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/casper-army',
+                href: 'https://github.com/mystra-io',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CasperArmy, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mystra, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
