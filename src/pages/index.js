@@ -29,8 +29,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Welcone on ${siteConfig.title} official documentation`}
-      description="First Venture Capital with DAO on Casper Network">
+      title={`Welcome on ${siteConfig.title} official documentation`}
+      description="Integrated tools platform unifying #web2 & #web3 communities">
       <main>
         <HomepageFeatures />
       </main>
