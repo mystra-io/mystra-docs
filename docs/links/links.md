@@ -37,7 +37,7 @@ sidebar_position: 1
 <a href="https://litepaper.casperarmy.io">https://litepaper.casperarmy.io</a>
 
 ## 8.12 LinkedIn
-<a href="https://www.linkedin.com/company/casperarmy">https://www.linkedin.com/company/mystraofficial</a>
+<a href="https://www.linkedin.com/company/mystraio/">https://www.linkedin.com/company/mystraio/</a>
 
 ## 8.13 Reddit
 <a href="https://www.reddit.com/user/casperarmy/">https://www.reddit.com/user/casperarmy/</a>
