@@ -2,7 +2,7 @@
 
 Mystra platform plans to launch Loans in the future. 
 
-##How does it work?
+## How does it work?
 
 When someone needs cryptocurrency, they can request a loan from another person or platform. In exchange for the borrowed amount of cryptocurrency, they promise to repay the same amount in the future, often with a small additional interest.
 
@@ -10,17 +10,17 @@ On the other hand, if you have an excess of cryptocurrencies and are not using t
 
 This works similarly to traditional loans but is more digital and based on cryptocurrencies. However, it is important to understand the rules. Loans can be risky, so always make sure you will be able to repay the borrowed funds in the future.
 
-Mechanism may include several key elements:
+## Mechanism may include several key elements:
 
-Lenders' Participants: Users with surplus digital assets can choose to provide loans to other participants on the platform. These participants can be both individuals and projects.
+- **Lenders'Participants:** Users with surplus digital assets can choose to provide loans to other participants on the platform. These participants can be both individuals and projects.
 
-Loan Terms: Those offering loans will have the ability to specify terms such as the loan period, interest rates, collateral (if any), and other details.
+- **Loan Terms:** Those offering loans will have the ability to specify terms such as the loan period, interest rates, collateral (if any), and other details.
 
-Collateral: To minimize risk for the lender, the loan system may require some form of collateral. This could involve digital assets that serve as security, enhancing transaction security.
+- **Collateral:** To minimize risk for the lender, the loan system may require some form of collateral. This could involve digital assets that serve as security, enhancing transaction security.
 
-Smart Contracts: Contracts based on smart contract technology can automate processes related to loans, such as settlements, interest collection, and asset securing in case of delayed repayment.
+- **Smart Contracts:** Contracts based on smart contract technology can automate processes related to loans, such as settlements, interest collection, and asset securing in case of delayed repayment.
 
-Interest Payments: Borrowers may pay interest for utilizing the borrowed funds. The system automatically monitors contract conditions and performs settlements, ensuring fair and transparent transactions.
+- **Interest Payments:** Borrowers may pay interest for utilizing the borrowed funds. The system automatically monitors contract conditions and performs settlements, ensuring fair and transparent transactions.
 
-Settlements: Upon the expiration of the loan period or as per the agreement, the borrower can repay the borrowed funds along with interest. Automation of this process can enhance efficiency and transaction certainty.
+- **Settlements:** Upon the expiration of the loan period or as per the agreement, the borrower can repay the borrowed funds along with interest. Automation of this process can enhance efficiency and transaction certainty.
 
